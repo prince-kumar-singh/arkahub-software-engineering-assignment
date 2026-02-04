@@ -1,0 +1,12 @@
+{
+    "name": "energy-grid-client",
+    "version": "1.0.0",
+    "description": "Client for EnergyGrid Mock API",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "axios": "^1.6.0"
+    }
+}
